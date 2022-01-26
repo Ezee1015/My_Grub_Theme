@@ -21,7 +21,7 @@ function INSTALAR {
     esac
 
     clear
-    sudo cp -r "dark-matter-$DISTRO" /boot/grub/themes/
+    sudo cp -rf "dark-matter-$DISTRO/dark-matter" /boot/grub/themes/
     # sudo echo "GRUB_THEME="/boot/grub/themes/dark-matter/theme.txt"" >> /etc/default/grub
 
     echo ""
