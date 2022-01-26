@@ -1,5 +1,5 @@
-# My_VIM_Customization
-Mi básica customización de VIM, creado por www.vim-bootstrap.com y personalizado por mi para mis necesidades.
+#  My_Grub_Theme
+Mi Tema de GRUB2. Temas creados por vandalsoul, publicado en https://github.com/vandalsoul/darkmatter-grub2-theme
 
 # REQUISITOS
 ```
