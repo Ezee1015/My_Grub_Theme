@@ -1,5 +1,5 @@
 #  My_Grub_Theme
-Mi Tema de GRUB2. Temas creados por vandalsoul, publicado en https://github.com/vandalsoul/darkmatter-grub2-theme
+Mi Script de Temas de GRUB2. Temas creados por vandalsoul, publicado en https://github.com/vandalsoul/darkmatter-grub2-theme . Todos los créditos al autor
 
 # REQUISITOS
 ```
