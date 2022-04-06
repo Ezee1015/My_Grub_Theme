@@ -10,6 +10,8 @@ function INSTALAR {
    echo "   4.- ARCH LINUX"
    echo "   5.- KALI LINUX"
    echo "   6.- FEDORA"
+   echo "   7.- OPEN SUSE"
+   echo ""
    read -p "Ingrese la Seleccion > " respuesta
 
    case $respuesta in
@@ -18,7 +20,8 @@ function INSTALAR {
        '3' ) DISTRO="mint" ;;
        '4' ) DISTRO="arch" ;;
        '5' ) DISTRO="kali" ;;
-       '5' ) DISTRO="fedora" ;;
+       '6' ) DISTRO="fedora" ;;
+       '7' ) DISTRO="opensuse" ;;
         *  ) INSTALAR ;;
     esac
 
